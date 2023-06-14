@@ -1,0 +1,239 @@
+/* Nav bar */
+.brand-name{
+    font-size:x-large;
+}
+.pair-word{
+    color: #1E90FF;
+    font-size: xx-large;
+}
+
+/* Home Page */
+.home-heading{
+    align-self: center;
+    /*padding-left: 8rem;*/
+}
+.home-heading h1{
+    padding-left: 8rem;
+}
+
+.main-heading{
+    font-size: 80px;
+}
+
+.main-word{
+    color:#1E90FF;
+    font-size: 100px;
+    font-style: italic;
+}
+.head-key{
+    align-self: center;
+    
+    
+}
+
+
+img.main-img{
+    width: 100%;
+    height: fit-content;
+}
+
+
+/* Offer Section */
+
+
+.title-heading{
+    text-align: center;
+}
+.title-heading h2{
+    font-size: 45px;
+    font-style: italic;
+    padding: 20px;
+}
+
+slider- img{
+    height: 720px;
+    width: 100%;
+}
+
+h5.slider-caption-heading{
+    font-size: 40px;
+}
+
+p.slider-caption-para{
+    font-size: 20px;
+}
+
+
+/* Cards */
+.btn-buy-now{
+    border-radius: 20px;
+    padding:10px 15px;
+}
+
+
+/* Contact Us */
+.contact-name{
+    margin: 0 0 15px 0;
+}
+
+.footer-img{
+    width: 100%;
+    height: auto;
+}
+
+.contact-btn{
+    margin-top: 25px ;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contact-btn button{
+    padding: 10px;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1000px) {
+    
+    .home-img{
+        width: 100%;
+    }
+
+    .main-heading{
+        font-size: 60px;
+        width: 100%;
+    }
+    .home-heading{
+        width: 100%;
+        padding: 0;
+    }
+    .col-3{
+        width: 33%;
+        margin-bottom: 30px;
+    }
+    .card{
+        align-self: center;
+    }
+    .main-footer{
+        width: 100%;
+    }
+    .footer-img{
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 800px) {
+    
+    .home-img{
+        width: 100%;
+    }
+
+    .main-heading{
+        font-size: 60px;
+        width: 100%;
+    }
+
+    .main-word{
+        font-size: 70px;
+    }
+    .home-heading{
+        width: 100%;
+        padding: 0;
+    }
+    .col-3{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+    .card{
+        align-self: center;
+    }
+    .main-footer{
+        width: 100%;
+    }
+    .footer-img{
+        width: 100%;
+    }
+}
+
+
+
+@media screen and (max-width: 550px) {
+    
+    .home-img{
+        width: 100%;
+    }
+
+    .main-heading{
+        font-size: 30px;
+        width: 100%;
+
+    }
+    .home-heading{
+        width: 100%;
+    }
+    .col-3{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .card{
+        align-self: center;
+    }
+    .main-footer{
+        width: 100%;
+    }
+    .footer-img{
+        width: 100%;
+    }
+}
+
+
+
+
+@media screen and (max-width: 350px) {
+    
+    .home-img{
+        width: 100%;
+    }
+
+    .main-heading{
+        font-size: 30px;
+        width: 100%;
+        
+
+    }
+    .main-word{
+        font-size: 40px;
+        
+    }
+    .home-heading h1{
+        width: 100%;
+        
+    }
+    .col-3{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .card{
+        align-self: center;
+    }
+    .main-footer{
+        width: 100%;
+    }
+    .footer-img{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
